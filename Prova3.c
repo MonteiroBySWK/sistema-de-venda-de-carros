@@ -36,7 +36,7 @@ struct fichaVenda {
 void menu() {
     printf("------------------------------------------------\n");
     printf("Aluno: Gabriel Silva Monteiro\n");
-    printf("Curso: Engenahria de Computaçao\n");
+    printf("Curso: Engenharia de Computaçao\n");
     printf("Disciplina: Algoritmos\n");
     printf("Beta V.001\n");
     printf("----------------------------------------------\n\n\n");
